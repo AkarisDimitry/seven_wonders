@@ -1,0 +1,20 @@
+4,3,18,14
+Lumber Yard,Lumber Yard,Stone Pit,Stone Pit,Clay Pool,Clay Pool,Ore Vein,Ore Vein,Tree Farm,Excavation,Clay Pit,Timber Yard,Forest cave,Mine,Glassworks,Glassworks,Press,Press,Loom,Loom,Pawnshop,Pawnshop,Baths,Baths,Altar,Altar,Theater,Theater,Tavern,Tavern,Tavern,East Trading Post,East Trading Post,West Trading Post,West Trading Post,Marketplace,Marketplace,Stockade,Stockade,Barracks,Barracks,Guard Tower,Guard Tower,Apothecary,Apothecary,Workshop,Workshop,Scriptorium,Scriptorium,Sawmill,Sawmill,Quarry,Quarry,Brickyard,Brickyard,Foundry,Foundry,Glassworks,Glassworks,Press,Press,Loom,Loom,Aqueduct,Aqueduct,Temple,Temple,Statue,Statue,Courthouse,Courthouse,Forum,Forum,Forum,Caravansery,Caravansery,Caravansery,Vineyard,Vineyard,Bazar,Bazar,Walls,Walls,Training Ground,Training Ground,Training Ground,Stables,Stables,Archery Range,Archery Range,Dispensary,Dispensary,Laboratory,Laboratory,Library,Library,School,School,Pantheon,Pantheon,Gardens,Gardens,Town Hall,Town Hall,Town Hall,Palace,Palace,Senate,Senate,Haven,Haven,Lighthouse,Lighthouse,Chamber of Commerce,Chamber of Commerce,Arena,Arena,Arena,Fortifications,Fortifications,Circus,Circus,Circus,Arsenal,Arsenal,Arsenal,Siege Workshop,Siege Workshop,Lodge,Lodge,Observatory,Observatory,University,University,Academy,Academy,Study,Study,Spies Guild,Workers Guild,Builders Guild,Shipowners Guild,Magistrates Guild,Scientists Guild
+Coloso de Rodas A,Coloso de Rodas B,Faro de Alejandria A,Faro de Alejandria B,El Templo de Artemisa en Efeso A,El Templo de Artemisa en Efeso B,Los Jardines Colgantes de Babilonia A,Los Jardines Colgantes de Babilonia B,La Estatua de Zeus en Olimpia A,La Estatua de Zeus en Olimpia B,El Mausoleo de Halicarnaso A,El Mausoleo de Halicarnaso B,Las piramides de Giza A,Las piramides de Giza B
+Theater,Pawnshop,Quarry,School,Dispensary,Shipowners Guild,University,Palace,Barracks,Glassworks,Gardens,Arsenal,Lighthouse,Guard Tower,Foundry,Courthouse,Foundry,Spies Guild,Town Hall,Academy,Senate,Marketplace,Baths,Dispensary,Library,Gardens,Fortifications
+Las piramides de Giza B, 3
+1, 4,1,12
+
+Stone Pit,East Trading Post,Loom,Scriptorium,Guard Tower,Temple,Vineyard,Pantheon,Lodge,Study
+Los Jardines Colgantes de Babilonia A, 1
+3, 2,1,4
+
+Altar,Tavern,Excavation,Clay Pool,Press,Press,Brickyard,Training Ground,Brickyard,Quarry,Aqueduct,Circus,Arsenal,Haven,Chamber of Commerce
+La Estatua de Zeus en Olimpia B, 1
+2, 3,1,14
+
+West Trading Post,Lumber Yard,Timber Yard,Workshop,Apothecary,Walls,Laboratory,Bazar,Stables,Builders Guild,Arena,Scientists Guild
+Coloso de Rodas B, 0
+4, 1,1,9
+
+Clay Pit,Lumber Yard,Ore Vein,Ore Vein,Stockade,Sawmill,Loom,Archery Range,Sawmill,Caravansery,Siege Workshop,University,Observatory,Haven,Magistrates Guild
